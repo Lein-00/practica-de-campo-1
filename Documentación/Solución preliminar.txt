@@ -1,0 +1,9 @@
+Solución preliminar:
+
+ Desarrollar una aplicación web simple que permita a los usuarios
+ agregar, visualizar y eliminar tareas desde una lista. La interfaz
+ será intuitiva, con opciones claras para agregar tareas, marcar
+ tareas como completadas y eliminar tareas cuando ya no sean
+ necesarias. Utilizar JavaScript para la lógica de la aplicación y
+ almacenar las tareas localmente en el navegador para su
+ persistencia.
