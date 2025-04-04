@@ -1,0 +1,5 @@
+Objetivo del proyecto:
+
+ Crear una aplicación simple y fácil de usar para gestionar tareas 
+ personales, permitiendo a los usuarios agregar, ver y eliminar 
+ tareas de manera eficiente.
