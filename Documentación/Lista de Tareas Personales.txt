@@ -1,0 +1,26 @@
+Lista de Tareas Personales
+
+ Este es un proyecto simple para gestionar tareas personales.
+ Permite a los usuarios agregar, ver y eliminar tareas, ayudando a
+ organizar su día a día de manera eficiente.
+
+
+Características:
+  
+ -Agregar tareas a una lista.
+ -Ver todas las tareas en la lista.
+ -Eliminar tareas completadas.
+ -Interfaz sencilla y fácil de usar.
+
+
+Tecnologías utilizadas
+
+ *JavaScript*: Para la lógica y manipulación de tareas.
+ *Jest*: Para realizar pruebas unitarias y garantizar el correcto
+  funcionamiento del código.
+
+
+Instalación
+
+Clona este repositorio
+
